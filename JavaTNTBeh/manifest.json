@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Behavior pack for JavaTNT.",
+        "name": "JavaTNT Behavior Pack",
+        "uuid": "5f8c2b10-067c-11eb-adc1-0242ac120002",
+        "version": [0, 1, 0],
+        "min_engine_version": [1, 16, 20]
+    },
+    "modules": [
+        {
+            "description": "JavaTNT behavior pack data.",
+            "type": "data",
+            "uuid": "396acbe0-067b-11eb-adc1-0242ac120002",
+            "version": [0, 1, 0]
+        }
+    ]
+}
