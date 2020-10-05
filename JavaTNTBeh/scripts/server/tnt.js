@@ -16,6 +16,10 @@ let globals = {
 const itemDropDifferent = {
     "minecraft:stone": "minecraft:cobblestone",
     "minecraft:grass": "minecraft:dirt",
+    "minecraft:web": "minecraft:string",
+    "minecraft:coal_ore": "minecraft:coal",
+    "minecraft:redstone_ore": "minecraft:redstone",
+    "minecraft:diamond_ore": "minecraft:diamond",
     "minecraft:crimson_nylium": "minecraft:netherrack",
     "minecraft:warped_nylium": "minecraft:netherrack"
 };
@@ -28,7 +32,10 @@ const itemNoDrop = [
     "minecraft:leaves",
     "minecraft:leaves2",
     "minecraft:glass",
-    "minecraft:glass_pane"
+    "minecraft:glass_pane",
+    "minecraft:stained_glass",
+    "minecraft:stained_glass_pane",
+    "minecraft:nether_sprouts"
 ];
 
 
